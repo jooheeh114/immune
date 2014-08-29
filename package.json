@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jooheeh114/immune/issues"
   },
-  "homepage": "https://github.com/jooheeh114/immune"
+  "homepage": "https://github.com/jooheeh114/immune",
+  "dependencies": {
+    "express": "^4.8.6"
+  }
 }
