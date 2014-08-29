@@ -1,0 +1,20 @@
+{
+  "name": "immune",
+  "version": "0.0.0",
+  "description": "immune\r ======",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jooheeh114/immune.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jooheeh114/immune/issues"
+  },
+  "homepage": "https://github.com/jooheeh114/immune"
+}
